@@ -27,19 +27,15 @@ El archivo no permite comparar comunidades autónomas o provincias, porque sus c
 
 ### Denuncias activas y cesadas por año
 
-![Denuncias activas y cesadas por año](graficos/01_denuncias_por_estado_y_ano.png)
+![Denuncias activas y cesadas por año](01_denuncias_por_estado_y_ano.png)
 
 ### Denuncias por sexo registrado
 
-![Denuncias por sexo registrado](graficos/02_denuncias_por_sexo.png)
+![Denuncias por sexo registrado](02_denuncias_por_sexo.png)
 
 ### Evolución anual de las denuncias
 
-![Evolución anual de las denuncias](graficos/03_evolucion_anual.png)
-
-### Porcentaje de denuncias activas por año
-
-![Porcentaje de denuncias activas por año](graficos/04_porcentaje_activas.png)
+![Evolución anual de las denuncias](03_evolucion_anual.png)
 
 ## Herramientas
 
